@@ -1,0 +1,19 @@
+{
+  "name": "electron_official_tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial contents of Electron Official Site",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t2-Kusumoto/electron_official_tutorial.git"
+  },
+  "author": "t2-kusumoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t2-Kusumoto/electron_official_tutorial/issues"
+  },
+  "homepage": "https://github.com/t2-Kusumoto/electron_official_tutorial#readme"
+}
