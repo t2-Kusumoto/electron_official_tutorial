@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/t2-Kusumoto/electron_official_tutorial/issues"
   },
-  "homepage": "https://github.com/t2-Kusumoto/electron_official_tutorial#readme"
+  "homepage": "https://github.com/t2-Kusumoto/electron_official_tutorial#readme",
+  "devDependencies": {
+    "electron": "^20.0.1"
+  }
 }
